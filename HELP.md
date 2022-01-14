@@ -1,0 +1,76 @@
+# Getting Started
+
+### Reference Documentation
+For further reference, please consider the following sections:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.4/maven-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.4/maven-plugin/reference/html/#build-image)
+* [Spring Integration JPA Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/jpa.html)
+* [Spring Integration Test Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/testing.html)
+* [Spring Integration Apache Kafka Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/kafka.html)
+* [Spring Integration Mail Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/mail.html)
+* [Spring Integration Security Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/security.html)
+* [Spring Integration HTTP Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/http.html)
+* [Spring Integration WebFlux Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/webflux.html)
+* [Spring Integration Web Services Module Reference Guide](https://docs.spring.io/spring-integration/reference/html/ws.html)
+* [Testcontainers Elasticsearch Container Reference Guide](https://www.testcontainers.org/modules/elasticsearch/)
+* [Testcontainers Kafka Modules Reference Guide](https://www.testcontainers.org/modules/kafka/)
+* [Testcontainers MySQL Module Reference Guide](https://www.testcontainers.org/modules/databases/mysql/)
+* [Spring Configuration Processor](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#configuration-metadata-annotation-processor)
+* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#using-boot-devtools)
+* [Spring cache abstraction](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-caching)
+* [Spring Batch](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#howto-batch-applications)
+* [Validation](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-validation)
+* [Java Mail Sender](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-email)
+* [Spring Integration](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-integration)
+* [Spring for Apache Kafka](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-kafka)
+* [Spring Data Elasticsearch (Access+Driver)](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-elasticsearch)
+* [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#production-ready)
+* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-jpa-and-spring-data)
+* [OAuth2 Client](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-security-oauth2-client)
+* [Spring LDAP](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-ldap)
+* [OAuth2 Resource Server](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-security-oauth2-server)
+* [Spring Security](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-security)
+* [Eureka Discovery Client](https://docs.spring.io/spring-cloud-netflix/docs/current/reference/html/#service-discovery-eureka-clients)
+* [Eureka Server](https://docs.spring.io/spring-cloud-netflix/docs/current/reference/html/#spring-cloud-eureka-server)
+* [OpenFeign](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/)
+* [Apache Freemarker](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-spring-mvc-template-engines)
+* [Thymeleaf](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-spring-mvc-template-engines)
+* [Testcontainers](https://www.testcontainers.org/)
+* [Embedded LDAP Server](https://docs.spring.io/spring-boot/docs/2.4.4/reference/html/boot-features-nosql.html#boot-features-ldap-embedded)
+* [Rest Repositories](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#howto-use-exposing-spring-data-repositories-rest-endpoint)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-developing-web-applications)
+* [Spring Web Services](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-webservices)
+* [Spring HATEOAS](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-spring-hateoas)
+
+### Guides
+The following guides illustrate how to use some features concretely:
+
+* [Caching Data with Spring](https://spring.io/guides/gs/caching/)
+* [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
+* [Integrating Data](https://spring.io/guides/gs/integration/)
+* [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
+* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+* [Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+* [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+* [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
+* [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
+* [Service Registration and Discovery with Eureka and Spring Cloud](https://spring.io/guides/gs/service-registration-and-discovery/)
+* [Service Registration and Discovery with Eureka and Spring Cloud](https://spring.io/guides/gs/service-registration-and-discovery/)
+* [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
+* [Accessing JPA Data with REST](https://spring.io/guides/gs/accessing-data-rest/)
+* [Accessing Neo4j Data with REST](https://spring.io/guides/gs/accessing-neo4j-data-rest/)
+* [Accessing MongoDB Data with REST](https://spring.io/guides/gs/accessing-mongodb-data-rest/)
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+* [Producing a SOAP web service](https://spring.io/guides/gs/producing-web-service/)
+* [Building a Hypermedia-Driven RESTful Web Service](https://spring.io/guides/gs/rest-hateoas/)
+
+### Additional Links
+These additional references should also help you:
+
+* [Declarative REST calls with Spring Cloud OpenFeign sample](https://github.com/spring-cloud-samples/feign-eureka)
+
