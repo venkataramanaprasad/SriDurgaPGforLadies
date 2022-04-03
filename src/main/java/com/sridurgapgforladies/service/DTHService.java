@@ -23,7 +23,7 @@ public class DTHService {
 	DTHDetailsRepository dthDetailsRepository;
 
 	public DTHDetailsEntity insertDTHDetails(DTHDetailsModel dthDetailsModel) {
-		LOGGER.info("insertDTHDetails() method called.");
+		LOGGER.info("insertDTHDetails() method called");
 		
 		DTHDetailsEntity insertDTHDetails = new DTHDetailsEntity();
 		DTHDetailsEntity savedDetails=null;
